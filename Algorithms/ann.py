@@ -1,5 +1,5 @@
 # Artificial Neural Network
-# git init
+
 
 # Installing Keras
 # pip install --upgrade keras
